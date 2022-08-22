@@ -32,7 +32,7 @@ export default function Main(){
                         </Mbox>
                         </div>
                     <div className="M_box col-md-6 main_01_img">
-                        <img src="/img/main/con1.png" alt=""></img>
+                        <img src="https://Pseheyon.github.io/zz/img/main/con1.png"></img>
                     </div>
                 
                 

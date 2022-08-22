@@ -11,7 +11,7 @@ export default function Main(){
         <>
             <div className='main_item'>
                     <h1>20202 <strong>NEW</strong> - Pre-Collection</h1>
-                    <img src='/img/main/main_item.png' alt=''/>
+                    <img src="https://Pseheyon.github.io/zz/img/main/main_item.png" alt=''/>
                     <Link to='/sub/sub01' ><Button01 className='main_btn'>more</Button01></Link>
                     <img className='gif' src='/img/main/symbol_f.gif' alt=''></img>
                     
@@ -64,42 +64,42 @@ export default function Main(){
                             <ul className="sheet_sun">
                                 
                                     <li >
-                                        <Link to='detail01'><img src="/img/main/sun_01.png" alt="sun"/></Link>
+                                        <Link to='detail01'><img src="https://Pseheyon.github.io/zz/img/main/sun_01.png" alt="sun"/></Link>
                                         <div className="txt_product ">
                                             <span>론디01</span>
                                             <span>259,000원</span>
                                         </div>
                                     </li>
                                 
-                                    <li ><Link to='detail01'><img src="/img/main/sun_02.png" alt="sun"/></Link>
+                                    <li ><Link to='detail01'><img src="https://Pseheyon.github.io/zz/img/main/sun_02.png" alt="sun"/></Link>
                                         <div className="txt_product">
                                             <span>르01</span>
                                             <span>280,000원</span>
                                         </div>
                                     </li>
                                 
-                                    <li ><Link to='detail01'><img src="/img/main/sun_03.png" alt="sun"/></Link>
+                                    <li ><Link to='detail01'><img src="https://Pseheyon.github.io/zz/img/main/sun_03.png" alt="sun"/></Link>
                                         <div className="txt_product">
                                             <span>두다02</span>
                                             <span>280,000원</span>
                                         </div>
                                     </li>
                                 
-                                    <li ><Link to='detail01'><img src="/img/main/sun_04.png" alt="sun"/></Link>
+                                    <li ><Link to='detail01'><img src="https://Pseheyon.github.io/zz/img/main/sun_04.png" alt="sun"/></Link>
                                         <div className="txt_product">
                                             <span>베02</span>
                                             <span>440,000원</span>
                                         </div>
                                     </li>
                                 
-                                    <li ><Link to='detail01'><img src="/img/main/sun_05.png" alt="sun"/></Link>
+                                    <li ><Link to='detail01'><img src="https://Pseheyon.github.io/zz/img/main/sun_05.png" alt="sun"/></Link>
                                         <div className="txt_product">
                                             <span>레인 M01</span>
                                             <span>290,000</span>
                                         </div>
                                     </li>
                                 
-                                    <li ><Link to='detail01'><img src="/img/main/sun_06.png" alt="sun"/></Link>
+                                    <li ><Link to='detail01'><img src="https://Pseheyon.github.io/zz/img/main/sun_06.png" alt="sun"/></Link>
                                         <div className="txt_product">
                                             <span>브레이드 M01</span>
                                             <span>430,000원</span>
@@ -111,7 +111,7 @@ export default function Main(){
                         <div className="product_img_wrap02">
                             <ul className="sheet_gla ">
                                 
-                                    <li ><Link to='detail02'><img src="/img/main/glass_01.jpg" alt="glass"/></Link>
+                                    <li ><Link to='detail02'><img src="https://Pseheyon.github.io/zz/img/main/glass_01.jpg" alt="glass"/></Link>
                                         <div className="txt_product">
                                             <span>제니</span>
                                             <span>269,000원</span>
@@ -119,7 +119,7 @@ export default function Main(){
                                     </li>
                                 
                                 
-                                    <li ><Link to='detail02'><img src="/img/main/glass_02.jpg" alt="glass"/></Link>
+                                    <li ><Link to='detail02'><img src="https://Pseheyon.github.io/zz/img/main/glass_02.jpg" alt="glass"/></Link>
                                         <div className="txt_product">
                                             <span>제프 01</span>
                                             <span>260,000원</span>
@@ -127,7 +127,7 @@ export default function Main(){
                                     </li>
                                 
                                 
-                                    <li><Link to='detail02'><img src="/img/main/glass_03.jpg" alt="glass"/></Link>
+                                    <li><Link to='detail02'><img src="https://Pseheyon.github.io/zz/img/main/glass_03.jpg" alt="glass"/></Link>
                                         <div className="txt_product">
                                             <span>알리오 X GD1</span>
                                             <span>310,000원</span>
@@ -135,7 +135,7 @@ export default function Main(){
                                     </li>
                                 
                                 
-                                    <li ><Link to='detail02'><img src="/img/main/glass_04.jpg" alt="glass"/></Link>
+                                    <li ><Link to='detail02'><img src="https://Pseheyon.github.io/zz/img/main/glass_04.jpg" alt="glass"/></Link>
                                         <div className="txt_product">
                                             <span>에디 01</span>
                                             <span>249,000원</span>
@@ -143,14 +143,14 @@ export default function Main(){
                                     </li>
                                 
                                 
-                                    <li ><Link to='detail02'><img src="/img/main/glass_05.jpg" alt="glass"/></Link>
+                                    <li ><Link to='detail02'><img src="https://Pseheyon.github.io/zz/img/main/glass_05.jpg" alt="glass"/></Link>
                                         <div className="txt_product">
                                             <span>알리오 C1</span>
                                             <span>310,000원</span>
                                         </div>
                                     </li>
                                 
-                                    <li ><Link to='detail02'><img src="/img/main/glass_06.jpg" alt="glass"/></Link>
+                                    <li ><Link to='detail02'><img src="https://Pseheyon.github.io/zz/img/main/glass_06.jpg" alt="glass"/></Link>
                                         <div className="txt_product">
                                             <span>S.O.A M01</span>
                                             <span>360,000원</span>

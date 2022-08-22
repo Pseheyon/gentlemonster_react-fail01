@@ -13,7 +13,7 @@ export default function Main(){
                     <h1>20202 <strong>NEW</strong> - Pre-Collection</h1>
                     <img src="https://Pseheyon.github.io/zz/img/main/main_item.png" alt=''/>
                     <Link to='/sub/sub01' ><Button01 className='main_btn'>more</Button01></Link>
-                    <img className='gif' src='/img/main/symbol_f.gif' alt=''></img>
+                    <img className='gif' src="https://Pseheyon.github.io/zz/img/main/symbol_f.gif" alt=''></img>
                     
                 </div>  
         <div className="main_outer main">
@@ -37,7 +37,7 @@ export default function Main(){
                 
                 
                     <div className="M_box col-md-5">
-                        <img src="/img/main/con2.png" alt=""></img>
+                        <img src="https://Pseheyon.github.io/zz/img/main/con2.png" alt=""></img>
                     </div>
                     <div className="M_box col-md-7">
                         <Mbox>

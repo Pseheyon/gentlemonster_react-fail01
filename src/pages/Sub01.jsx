@@ -13,7 +13,7 @@ export default function Sub01(){
         
         <Container className="sub01">
             
-            <div className="big1" width='640px'><img width='640px'src="/img/sub/big01.png" alt="" /></div>
+            <div className="big1" width='640px'><img width='640px'src="https://Pseheyon.github.io/zz/img/sub/big01.png" alt="" /></div>
             {
                 data1.map((sub1, i)=>{
                     return(
@@ -27,7 +27,7 @@ export default function Sub01(){
                     )
                 })
             }
-            <div className="img_big"><img src="/img/sub/big02_long2.png" alt="" /></div>
+            <div className="img_big"><img src="https://Pseheyon.github.io/zz/img/sub/big02_long2.png" alt="" /></div>
         </Container></>
     )
 

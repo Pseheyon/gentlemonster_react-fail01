@@ -13,7 +13,7 @@ export default function Detail04(){
                         <img className="img3" src="https://Pseheyon.github.io/zz/img/detail/black_03.jpg" alt="product" />
                         <img className="img4" src="https://Pseheyon.github.io/zz/img/detail/black_04.jpg" alt="product" />
 
-                        <img className="img5" src="../img/detail/bag.jpg" alt="product" />
+                        <img className="img5" ssrc="https://Pseheyon.github.io/zz/img/detail/bag.jpg" alt="product" />
 
                     </div>
                     <div className="right">

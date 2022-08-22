@@ -21,10 +21,7 @@ export default function Detail01(){
                         <ul className="min_products">
                              <li><img src="https://Pseheyon.github.io/zz/img/detail/con_sun01.png" alt="orange" /></li>
                             <li><img src="https://Pseheyon.github.io/zz/img/detail/black.png" alt="black" /></li>
-                            {/*
-                            <li><img src="../img/detail/londi_pink.jpg" alt="pink" /></li>
-                            <li><img src="../img/detail/londi_blue.jpg" alt="blue" /></li>
-                            <li><img src="../img/detail/londi_brown.jpg" alt="brown" /></li> */}
+                            
                         </ul>
                         <p>
                             론디 01은 사각 형태의 블랙 플랫바 선글라스입니다.<br/> 라운딩 처리된 프런트가 부드러운 분위기를 연출합니다. 슬림한 프런트와 템플의 실버 메탈 장식 디테일이 매력적인 제품입니다. 99.9% UV 차단이 되는  블랙 자이스 렌즈를 사용하였습니다.

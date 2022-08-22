@@ -48,26 +48,26 @@ export default function Detail02(){
                                 <li><p className="more_arrow">사이즈 자세히 보기</p></li>
                             </ul>
                         </li>
-                        <li><div><span>무료 선물 포장 서비스</span><span><img src="../img/detail/more.png" alt="more"/></span></div>
+                        <li><div><span>무료 선물 포장 서비스</span><span><img src="https://Pseheyon.github.io/zz/img/detail/more.png" alt="more"/></span></div>
                             <ul>
                                 <li>• 젠틀몬스터 공식 온라인 스토어에서 구매하는 모든 분들께 선물 포장 서비스를 제공해 드립니다.</li>
-                                <li><img src="../img/detail/packaging-service_banner_new.webp" alt="" /></li>
+                                <li><img src="https://Pseheyon.github.io/zz/img/detail/packaging-service_banner_new.webp" alt="" /></li>
 
                             </ul>
                         </li>
-                        <li><div><span>기본 피팅 서비스</span><span><img src="../img/detail/more.png" alt="more" /></span></div>
+                        <li><div><span>기본 피팅 서비스</span><span><img src="https://Pseheyon.github.io/zz/img/detail/more.png" alt="more" /></span></div>
                             <ul>
                                 <li>• 온라인에서 주문하시는 젠틀몬스터의 모든 제품은 기본 피팅 후 발송됩니다.</li>
                                 <li><p className="more_arrow" href="#">자세히보기</p></li>
                             </ul>
                         </li>
-                        <li><div><span>배송  &amp; 반품</span><span><img src="../img/detail/more.png" alt="more" /></span></div>
+                        <li><div><span>배송  &amp; 반품</span><span><img src="https://Pseheyon.github.io/zz/img/detail/more.png" alt="more" /></span></div>
                             <ul>
                                 <li>•   무료 배송오늘 주문한 상품을 영업일 기준 1-3일내에 받아보세요.</li>
                                 <li>•   무료 반품무료 반품 서비스를 이용하세요. 구매하신 제품은 수령하신 날로부터 7일 이내에 접수해 주셔야 합니다. 제품은 사용되지 않은 상태를 유지해야 하며, 모든 구성품을 포함하고 있어야 합니다.</li>
                             </ul>
                         </li>
-                        <li><div><span>도움이 필요하신가요?</span><span><img src="../img/detail/more.png" alt="more" /></span></div>
+                        <li><div><span>도움이 필요하신가요?</span><span><img src="https://Pseheyon.github.io/zz/img/detail/more.png" alt="more" /></span></div>
                             <ul>
                                 <li>전문 어드바이저가 도와드리겠습니다.</li>
                                 <li>•   라이브챗: 문의하기</li>
@@ -86,26 +86,26 @@ export default function Detail02(){
                     <h6>더 다양한 스타일을 확인해보세요</h6>
                     <p>인스타그램에 @gentlemonster을 태그하여 당신의 스타일을 공유해보세요.</p>
                     <div className="star_photo">
-                        <div><img src="../img/detail/sns_01.jpg" alt="sns" /><p>@fr0stedtips</p></div>
-                        <div><img src="../img/detail/sns_02.jpg" alt="sns" /><p>@harrytibble</p></div>
-                        <div><img src="../img/detail/sns_03.jpg" alt="sns" /><p>@bunnysmeesh</p></div>
+                        <div><img src="https://Pseheyon.github.io/zz/img/detail/sns_01.jpg" alt="sns" /><p>@fr0stedtips</p></div>
+                        <div><img src="https://Pseheyon.github.io/zz/img/detail/sns_02.jpg" alt="sns" /><p>@harrytibble</p></div>
+                        <div><img src="https://Pseheyon.github.io/zz/img/detail/sns_03.jpg" alt="sns" /><p>@bunnysmeesh</p></div>
                     </div>
                 </div>
             </section><section className="recomment">
                 <div className="container">
                     <h6>론디 01 과 비슷한 추천제품을 만나보세요</h6>
                     <div className="left">
-                        <div><img src="../img/detail/recommend_01.jpg" alt="recommend" />
+                        <div><img src="https://Pseheyon.github.io/zz/img/detail/recommend_01.jpg" alt="recommend" />
                             <p>모마티 01</p>
                             <p>249,000원</p>
                             <p>+5 Colors</p>
                         </div>
-                        <div><img src="../img/detail/recommend_02.jpg" alt="recommend" />
+                        <div><img src="https://Pseheyon.github.io/zz/img/detail/recommend_02.jpg" alt="recommend" />
                             <p>릴리트 01</p>
                             <p>259,000원</p>
                             <p>+5 Colors</p>
                         </div>
-                        <div><img src="../img/detail/recommend_03.jpg" alt="recommend" />
+                        <div><img src="https://Pseheyon.github.io/zz/img/detail/recommend_03.jpg" alt="recommend" />
                             <p>밀 01</p>
                             <p>249,000원</p>
                             <p>+5 Colors</p>

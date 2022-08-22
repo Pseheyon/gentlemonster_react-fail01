@@ -163,7 +163,7 @@ export default function Main(){
             </Container>
             <div className="banner">
             <div className="banner_wrap">
-                <img src="/img/main/bannerFront.png" alt=""/>
+                <img src="https://Pseheyon.github.io/zz/img/main/bannerFront.png" alt=""/>
                 <div>
                     <strong>HAUS SHANGHAI</strong>
                     <p>‘HAUS 0 10 10 10 1’은 젠틀몬스터가 보여줄 새로운 퓨처리테일의 방향성을 의미합니다.</p>

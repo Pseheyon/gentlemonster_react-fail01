@@ -8,22 +8,22 @@ export default function Detail02(){
             <section className="de_ab">
                 <div className="container top">
                     <div className="left">
-                        <img className="img1" src="../img/detail/black_01.jpg" alt="product" />
-                        <img className="img2" src="../img/detail/black_02.jpg" alt="product" />
-                        <img className="img3" src="../img/detail/black_03.jpg" alt="product" />
-                        <img className="img4" src="../img/detail/black_04.jpg" alt="product" />
+                        <img className="img1" src="https://Pseheyon.github.io/zz/img/detail/black_01.jpg" alt="product" />
+                        <img className="img2" src="https://Pseheyon.github.io/zz/img/detail/black_02.jpg" alt="product" />
+                        <img className="img3" src="https://Pseheyon.github.io/zz/img/detail/black_03.jpg" alt="product" />
+                        <img className="img4" src="https://Pseheyon.github.io/zz/img/detail/black_04.jpg" alt="product" />
 
-                        <img className="img5" src="../img/detail/bag.jpg" alt="product" />
+                        <img className="img5" src="https://Pseheyon.github.io/zz/img/detail/bag.jpg" alt="product" />
 
                     </div>
                     <div className="right">
                         <div className="name"> <span><strong>론디01</strong></span><span>259,000원</span></div>
                         <ul className="min_products">
-                            <li><img src="../img/detail/londi_black.jpg" alt="black" /></li>
-                            <li><img src="../img/detail/londi_orange.jpg" alt="orange" /></li>
-                            <li><img src="../img/detail/londi_pink.jpg" alt="pink" /></li>
-                            <li><img src="../img/detail/londi_blue.jpg" alt="blue" /></li>
-                            <li><img src="../img/detail/londi_brown.jpg" alt="brown" /></li>
+                            <li><img src="https://Pseheyon.github.io/zz/img/detail/londi_black.jpg" alt="black" /></li>
+                            <li><img src="https://Pseheyon.github.io/zz/img/detail/londi_orange.jpg" alt="orange" /></li>
+                            <li><img src="https://Pseheyon.github.io/zz/img/detail/londi_pink.jpg" alt="pink" /></li>
+                            <li><img src="https://Pseheyon.github.io/zz/img/detail/londi_blue.jpg" alt="blue" /></li>
+                            <li><img src="https://Pseheyon.github.io/zz/img/detail/londi_brown.jpg" alt="brown" /></li>
                         </ul>
                         <p>
                             론디 01은 사각 형태의 블랙 플랫바 선글라스입니다.<br/> 라운딩 처리된 프런트가 부드러운 분위기를 연출합니다. 슬림한 프런트와 템플의 실버 메탈 장식 디테일이 매력적인 제품입니다. 99.9% UV 차단이 되는  블랙 자이스 렌즈를 사용하였습니다.
@@ -36,7 +36,7 @@ export default function Detail02(){
                     </ul>
                     <p>무료 배송 및 무료 반품 서비스, 무이자 할부 서비스</p>
                     <ul className="list">
-                        <li><div><span>제품세부정보</span> <span><img src="../img/detail/more.png" alt="more" /></span></div>
+                        <li><div><span>제품세부정보</span> <span><img src="https://Pseheyon.github.io/zz/img/detail/more.png" alt="more" /></span></div>
                             <ul>
                                 <li>• 스퀘어 아세테이트 프레임</li>
                                 <li>• 템플 메탈 장식 디테일</li>

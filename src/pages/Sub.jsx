@@ -15,7 +15,7 @@ export default function Sub(){
                     <img src="https://Pseheyon.github.io/zz/img/main/main_item.png" alt=''/>
                     <Link to='/sub/sub01' ><Button01 className='main_btn'>more</Button01></Link>
                     
-                    <img className='gif' ssrc="https://Pseheyon.github.io/zz/img/main/symbol_f.gif" alt=''></img>
+                    <img className='gif' src="https://Pseheyon.github.io/zz/img/main/symbol_f.gif" alt=''></img>
                     
                 </div> 
             <Container className="sub_wrap">

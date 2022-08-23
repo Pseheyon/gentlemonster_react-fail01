@@ -1,7 +1,7 @@
 {
   "main.css": "/zz/static/css/main.5cc73650.chunk.css",
-  "main.js": "/zz/static/js/main.974f83aa.chunk.js",
-  "main.js.map": "/zz/static/js/main.974f83aa.chunk.js.map",
+  "main.js": "/zz/static/js/main.21f9be73.chunk.js",
+  "main.js.map": "/zz/static/js/main.21f9be73.chunk.js.map",
   "static/js/1.b4580c6e.chunk.js": "/zz/static/js/1.b4580c6e.chunk.js",
   "static/js/1.b4580c6e.chunk.js.map": "/zz/static/js/1.b4580c6e.chunk.js.map",
   "static/css/2.f67d23f5.chunk.css": "/zz/static/css/2.f67d23f5.chunk.css",
@@ -10,9 +10,9 @@
   "runtime~main.js": "/zz/static/js/runtime~main.251dd11d.js",
   "runtime~main.js.map": "/zz/static/js/runtime~main.251dd11d.js.map",
   "static/media/App.css": "/zz/static/media/bannerBack.70caba3a.png",
-  "static/css/main.5cc73650.chunk.css.map": "/zz/static/css/main.5cc73650.chunk.css.map",
   "static/css/2.f67d23f5.chunk.css.map": "/zz/static/css/2.f67d23f5.chunk.css.map",
+  "static/css/main.5cc73650.chunk.css.map": "/zz/static/css/main.5cc73650.chunk.css.map",
   "index.html": "/zz/index.html",
-  "precache-manifest.db08f88c459daba0f3f53ff9ad86825d.js": "/zz/precache-manifest.db08f88c459daba0f3f53ff9ad86825d.js",
+  "precache-manifest.0490b7c92c112341c5998d69e22f8a83.js": "/zz/precache-manifest.0490b7c92c112341c5998d69e22f8a83.js",
   "service-worker.js": "/zz/service-worker.js"
 }

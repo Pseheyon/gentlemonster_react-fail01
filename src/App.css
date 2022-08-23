@@ -37,15 +37,15 @@ nav{position: absolute !important; top: 0; left: 0;}
 .main_01_img img{width: 100%;}
 .col-md-6{padding-bottom: 50px;}
 .p_main{ font-weight: 300; color: #666;}
-.M_box .dMbCty{ text-align: center; border-radius: 100px;display: flex; flex-direction: column; align-items: center; justify-content: space-evenly; padding-top: 100px;}
-.M_box .dMbCty h2{color: #0078A7; font-weight: bolder;}
-.M_box:first-child .dMbCty{width: 575px; height: 575px;}
- .dMbCty{ height: 575px;}
-.dMbCty a{width: 100%; display: inline-block;}
+.M_box .dMbCty, .M_box .eSbheu{ text-align: center; border-radius: 100px;display: flex; flex-direction: column; align-items: center; justify-content: space-evenly; padding-top: 100px;}
+.M_box .dMbCty h2,.M_box .eSbheu h2{color: #0078A7; font-weight: bolder;}
+.M_box:first-child .dMbCty,.M_box:first-child .eSbheu{width: 575px; height: 575px;}
+ .dMbCty,  .eSbheu{ height: 575px;}
+.dMbCty a,.eSbheu a{width: 100%; display: inline-block;}
 .con_main_btn{width: 80%; padding: 10px !important; box-shadow: 3px 3px 4px #74aec4 !important; border-radius: 10px !important;}
 
 /* banner */
-.banner {width: 100vw; height: 500px; text-align: center; background-image: url(./background_img/bannerBack.png); background-attachment: fixed; background-repeat:no-repeat; background-size: cover; margin: 100px 0;}
+.banner {width: 100vw; height: 500px; text-align: center; background-image: url(../public/img/main/bannerBack.png); background-attachment: fixed; background-repeat:no-repeat; background-size: cover; margin: 100px 0;}
 .banner_wrap{padding-top: 160px; color: white;}
 .banner_wrap img{mix-blend-mode: overlay; display: inline-block;}
 .banner_wrap div{padding-top: 45px; font-size: 1.5rem;}

@@ -45,7 +45,7 @@ nav{position: absolute !important; top: 0; left: 0;}
 .con_main_btn{width: 80%; padding: 10px !important; box-shadow: 3px 3px 4px #74aec4 !important; border-radius: 10px !important;}
 
 /* banner */
-.banner {width: 100vw; height: 500px; text-align: center; background-image: url(Pseheyon.github.io/zz//src/background_img/bannerBack.png); background-attachment: fixed; background-repeat:no-repeat; background-size: cover; margin: 100px 0;}
+.banner {width: 100vw; height: 500px; text-align: center; background-image: url("https://Pseheyon.github.io/zz/img/sub/big01.png"); background-attachment: fixed; background-repeat:no-repeat; background-size: cover; margin: 100px 0;}
 .banner_wrap{padding-top: 160px; color: white;}
 .banner_wrap img{mix-blend-mode: overlay; display: inline-block;}
 .banner_wrap div{padding-top: 45px; font-size: 1.5rem;}

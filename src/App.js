@@ -30,13 +30,13 @@ function App() {
             <Nav.Link onClick={() => {navigate('/sub/sub01')}}>CATEGORY</Nav.Link>
         
           </Nav>
-          <Navbar.Brand onClick={() => {navigate('/')}}><img src='/img/main/logo_header.png' alt=''></img></Navbar.Brand>
+          <Navbar.Brand onClick={() => {navigate('/')}}><img src='https://Pseheyon.github.io/img/main/logo_header.png' alt=''></img></Navbar.Brand>
           <Nav >
 
             <Nav.Link >베스트</Nav.Link>
 
             <Nav.Link >제품 구매하기</Nav.Link>
-            <Nav.Link onClick={() => {navigate('/cart')}}><img src='/img/main/cart.png' alt=''></img></Nav.Link>
+            <Nav.Link onClick={() => {navigate('/cart')}}><img src='https://Pseheyon.github.io/img/main/cart.png' alt=''></img></Nav.Link>
 
           </Nav>
           

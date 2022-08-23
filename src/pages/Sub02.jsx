@@ -16,7 +16,7 @@ export default function Sub02(){
                 data1.map((sub1, i)=>{
                     return(
                         <div  className={sub1.class} key={sub1.id}>
-                            <Link to='/detail02'><img src={`Pseheyon.github.io/zz/img/sub/sub02_${i+1}.png`} alt="" width="100%" height="auto" ></img></Link>
+                            <Link to='/detail02'><img src={`https://Pseheyon.github.io/zz/img/sub/sub02_${i+1}.png`} alt="" width="100%" height="auto" ></img></Link>
                             <div className="under_txt">
                                 <h5>{sub1.title}</h5>
                             <p>{sub1.price}</p>
